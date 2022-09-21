@@ -1,0 +1,10 @@
+C:\Users\KONGNYUY\Desktop\C#\COMELECDB\COMELECDB\bin\Debug\COMELECDB.exe.config
+C:\Users\KONGNYUY\Desktop\C#\COMELECDB\COMELECDB\bin\Debug\COMELECDB.exe
+C:\Users\KONGNYUY\Desktop\C#\COMELECDB\COMELECDB\bin\Debug\COMELECDB.pdb
+C:\Users\KONGNYUY\Desktop\C#\COMELECDB\COMELECDB\obj\Debug\COMELECDB.csprojResolveAssemblyReference.cache
+C:\Users\KONGNYUY\Desktop\C#\COMELECDB\COMELECDB\obj\Debug\COMELECDB.Properties.Resources.resources
+C:\Users\KONGNYUY\Desktop\C#\COMELECDB\COMELECDB\obj\Debug\COMELECDB.csproj.GenerateResource.Cache
+C:\Users\KONGNYUY\Desktop\C#\COMELECDB\COMELECDB\obj\Debug\COMELECDB.exe
+C:\Users\KONGNYUY\Desktop\C#\COMELECDB\COMELECDB\obj\Debug\COMELECDB.pdb
+C:\Users\KONGNYUY\Desktop\C#\COMELECDB\COMELECDB\obj\Debug\COMELECDB.Forms.AddRowFile.resources
+C:\Users\KONGNYUY\Desktop\C#\COMELECDB\COMELECDB\obj\Debug\COMELECDB.Forms.Template.resources
